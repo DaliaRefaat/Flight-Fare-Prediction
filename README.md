@@ -1,6 +1,6 @@
 what's included:
 1.Preprocessing and Analysis (EDA)
-2.Model Development + Saving it (We can load it with Azure ML)
+2.Model Development + Saving it 
 3.GANs to generate new data
 
 instructions for deployment:
